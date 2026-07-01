@@ -40,16 +40,6 @@ portfolio-website/
 │
 ├── css/
 │   └── style.css
-│
-├── images/
-│   ├── profile.jpg
-│   ├── project1.jpg
-│   ├── project2.jpg
-│   └── ...
-│
-├── assets/
-│   └── Oneal_Muiruri_CV.pdf
-│
 └── README.md
 
 ```
@@ -124,11 +114,11 @@ Aspiring Software Engineer | AI Security Enthusiast | Computer Science Student
 
 ## 📧 Contact
 
-Email: your-email@example.com
+Email: onealmuiruri@gmail.com
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/onealmuiruri-pixel
 
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn: https://linkedin.com/in/onealmuiruri
 
 ---
 
