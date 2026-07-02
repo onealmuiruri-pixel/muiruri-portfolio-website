@@ -125,5 +125,6 @@ LinkedIn: https://linkedin.com/in/onealmuiruri
 ## 📜 License
 
 This project is open for educational and portfolio purposes.
+Upon attaining this codebase,the person herein should use this project for productive purposes 
 ```
 
