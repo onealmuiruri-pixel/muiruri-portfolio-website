@@ -1,17 +1,17 @@
 ```markdown
-# 🌐 Oneal Muiruri Portfolio Website
+#  Oneal Muiruri Portfolio Website
 
 A modern, responsive, and professional portfolio website built using **HTML5** and **CSS3**. This project showcases my skills, education, projects, and career aspirations in software engineering and AI security.
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This portfolio serves as my personal website, allowing visitors to learn more about me, explore my projects, and contact me for collaborations, internships, or professional opportunities.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Responsive design for desktop, tablet, and mobile devices
 - Clean and modern user interface
@@ -25,7 +25,7 @@ This portfolio serves as my personal website, allowing visitors to learn more ab
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
@@ -46,7 +46,7 @@ portfolio-website/
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -57,7 +57,7 @@ portfolio-website/
 
 ---
 
-## 📄 Website Pages
+##  Website Pages
 
 ### Home
 Introduces who I am, highlights my career focus, and provides quick navigation to the rest of the website.
@@ -79,7 +79,7 @@ Provides my contact information together with a contact form for communication.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project was developed to:
 
@@ -91,7 +91,7 @@ This project was developed to:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - JavaScript interactivity
 - Dark mode
@@ -104,7 +104,7 @@ This project was developed to:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Oneal Muiruri**
 
@@ -112,7 +112,7 @@ Aspiring Software Engineer | AI Security Enthusiast | Computer Science Student
 
 ---
 
-## 📧 Contact
+##  Contact
 
 Email: onealmuiruri@gmail.com
 
@@ -122,7 +122,7 @@ LinkedIn: https://linkedin.com/in/onealmuiruri
 
 ---
 
-## 📜 License
+##  License
 
 This project is open for educational and portfolio purposes.
 Upon attaining this codebase,the person herein should use this project for productive purposes 
